@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @freyja92
-- 👀 I’m interested in learning as much as I can ASAP
-- 🌱 I’m currently learning through freeCodeCamp
+- 👀 I’m interested in learning as much as possible
+- 🌱 I’m currently looking for a job to put into practice what I've learned and to learn even more while making real useful projects.
 
 
 <!---
